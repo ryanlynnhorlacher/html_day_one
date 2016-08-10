@@ -1,0 +1,89 @@
+.bottom-margin {
+	margin-bottom: 6%;
+}
+.full{
+	width: 100%;
+}
+.thirds {
+	width: 33%;
+}
+
+.pull-left {
+	float: left;
+}
+
+.pull-right {
+	float: right;
+}
+
+.center {
+	text-align: center;
+}
+
+table {
+	text-align: center;
+	width: 80%;
+	border: 1px solid grey;
+	margin-right: 10%;
+	margin-left: 10%
+}
+
+.half {
+	width: 49%;
+}
+
+.blue_background {
+	background: blue;
+}
+td, th {
+	border: 1px solid grey;
+}
+th {
+	margin-top: 40px;
+}
+
+.box {
+	height: 40px;
+	background: #b1eafa;
+	border: 1px solid blue;
+	line-height: 40px
+}
+
+.content-right{
+	width: 41%;
+	padding-left: 8%;
+}
+hr {
+	clear: left;
+}
+.green-circle {
+	margin-top: 50px;
+	background: green;
+	border: 2px solid black;
+	border-radius: 100px;
+	height: 200px;
+	width: 200px;
+	margin-left: 175px;
+
+}
+.purple-square {
+	margin-top: 50px;
+	background: purple;
+	border: 2px solid black;
+	height: 200px;
+	width: 200px;
+	margin-left: 225px;
+}
+.image-box {
+	margin-top: 50px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("../Rabbit.jpg");
+	border: 2px solid blue;
+	height: 200px;
+	width: 200px;
+	margin-left: 200px;
+}
+h2 {
+	font-size: 17px;
+}
